@@ -5,11 +5,11 @@ I'm a 4th year university student and have been programming for the majority of 
 📗 stuff about me
 
 * 🇨🇦 living in <code>Waterloo, Ontario, Canada</code>
-* 📚 currently in my fourth year of Computer Science at Wilfrid Laurier University
-* ⚙️ programming languages that i've been using recently: .js, .java, .py, .css, .html
+* 📚 currently in my fourth year of <code>Computer Science</code> at <code>Wilfrid Laurier University</code>
+* ⚙️ programming languages that i've been using recently: <code>.js, .java, .py, .css, .html</code
 
 📫 How to reach me
-* instagram: @camilleri
+* instagram: <href>@camilleri</href>
 * linkedin: /in/aacamilleri
 * discord: rampage#6302
 
