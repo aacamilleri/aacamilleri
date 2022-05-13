@@ -4,7 +4,7 @@ I'm a 4th year university student and have been programming for the majority of 
 
 📗 stuff about me
 
-* 🇨🇦 living in Waterloo, Ontario, Canada
+* 🇨🇦 living in <code>Waterloo, Ontario, Canada</code>
 * 📚 currently in my fourth year of Computer Science at Wilfrid Laurier University
 * ⚙️ programming languages that i've been using recently: .js, .java, .py, .css, .html
 
