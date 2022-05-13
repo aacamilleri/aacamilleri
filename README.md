@@ -6,7 +6,7 @@ I'm a 4th year university student and have been programming for the majority of 
 
 * 🇨🇦 living in <code>Waterloo, Ontario, Canada</code>
 * 📚 currently in my fourth year of <code>Computer Science</code> at <code>Wilfrid Laurier University</code>
-* ⚙️ programming languages that i've been using recently: <code>.js, .java, .py, .css, .html</code
+* ⚙️ programming languages that i've been using recently: <code>.js, .java, .py, .css, .html</code>
 
 📫 How to reach me
 * instagram: <href>@camilleri</href>
